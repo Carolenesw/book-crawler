@@ -33,12 +33,24 @@ Pull requests welcomed.
 ## Tests:
 none
 
-## Questions?:
+## Questions
+If you have any questions, please contact at:   
+Email: carolenesw@gmail.com
+
+## link
+
+* Repo link:
+https://github.com/Carolenesw/book-crawler
+
+* Deployed URL: 
+https://book-crawler.herokuapp.com/
+
+* Images:
 
 ![Image of waltoids](https://avatars.githubusercontent.com/Amina-Seidi)
 ![Image of waltoids](https://avatars.githubusercontent.com/Carolenesw)
 ![Image of waltoids](https://avatars.githubusercontent.com/soverylarry)
 ![Image of waltoids](https://avatars.githubusercontent.com/waltoids)
 
-Contact me at: waltoids@yahoo.com for questions.
+
 
